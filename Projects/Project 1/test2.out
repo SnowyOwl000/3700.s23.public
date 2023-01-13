@@ -1,0 +1,9 @@
+Brute force:
+Minimum distance (squared): 481 / 980
+points: (2088 / 5,177 / 1) (2923 / 7,1763 / 10)
+Distance: 0.700583
+
+Fast:
+Minimum distance (squared): 481 / 980
+points: (2923 / 7,1763 / 10) (2088 / 5,177 / 1)
+Distance: 0.700583
