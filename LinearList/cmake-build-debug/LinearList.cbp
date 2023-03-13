@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LinearList"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LinearList">
+				<Option output="/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/LinearList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/bob/School/Courses/3700.course/Containers/LinearList/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 LinearList"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LinearList/fast">
+				<Option output="/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/LinearList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/bob/School/Courses/3700.course/Containers/LinearList/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 LinearList/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/bob/School/Courses/3700.course/Containers/LinearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/bob/School/Courses/3700.course/Containers/LinearList/linearlist-implementation.h">
+			<Option target="LinearList"/>
+		</Unit>
+		<Unit filename="/home/bob/School/Courses/3700.course/Containers/LinearList/linearlist.h">
+			<Option target="LinearList"/>
+		</Unit>
+		<Unit filename="/home/bob/School/Courses/3700.course/Containers/LinearList/main.cpp">
+			<Option target="LinearList"/>
+		</Unit>
+		<Unit filename="/home/bob/School/Courses/3700.course/Containers/LinearList/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
